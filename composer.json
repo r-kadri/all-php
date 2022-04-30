@@ -1,0 +1,16 @@
+{
+    "name": "ryan/all-php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Ryan\\AllPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ryan Kadri",
+            "email": "ryankadri.dev@gmail.com"
+        }
+    ],
+    "require": {}
+}
