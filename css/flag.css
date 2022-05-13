@@ -1,0 +1,42 @@
+body {
+    background-color: green;
+}
+
+.flag {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.flag img {
+    width: 250px;
+    
+}
+
+.flag img:hover {
+    transform: scale(1.2);
+    box-shadow: 2px 2px 2px 2px grey;
+}
+
+h1 {
+    color: white;
+    background-color: orange;
+}
+
+.btn-add {
+    text-transform: uppercase;
+    margin: 20px;
+    
+}
+
+.btn-add a {
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+.btn-add a:hover {
+    background-color: orange;
+}
