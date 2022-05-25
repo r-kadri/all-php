@@ -9,7 +9,7 @@
 </head>
 <body>
     <h1>Choix du drapeau</h1>
-        <form action="" method="post">
+    <form action="/lib/flag.php" method="post" enctype="multipart/form-data">
         <input type="hidden" name="MAX_FILE_SIZE" value="2097152">
         <input type="file" name="image" id="">
         <input type="submit" value="Ajouter">
